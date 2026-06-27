@@ -16,6 +16,9 @@ This project features a clean interface with persistent score tracking across ro
 *   **Profile**: Players can make unique profiles to be ranked on the leaderboard locally.
 *   **Career**: Keeps track of a player's matches, win ratio and rank locally.
 
+## Snapshots
+![Basic Running State](BasicRunning.png)
+![Win Condition](BasicWin.png)
 ## 🛠️ How to Run
 1. Install [Python](https://www.python.org/).
 2. Download the `tictactoe.py` file.
